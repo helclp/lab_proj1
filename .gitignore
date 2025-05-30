@@ -1,2 +1,10 @@
 data/*
 !data/.gitkeep
+
+
+
+*.csv
+
+edge_test/
+
+final_output.csv
