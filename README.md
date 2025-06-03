@@ -1,2 +1,4 @@
-# lab_proj1
-Code used to combine  and process multiple CSV files containing cell imaging data. 
+# Maltez Lab Tools
+
+
+Code for tools to help automate various processes in the Maltez lab. 
