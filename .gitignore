@@ -4,6 +4,8 @@ data/*
 
 combined_csvs/*
 
+csv_for_tools/* 
+!csv_for_tools/.gitkeep
 
 *.csv
 
