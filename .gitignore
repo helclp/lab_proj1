@@ -1,8 +1,12 @@
 data/*
 !data/.gitkeep
 
+r_and_d.ipynb
+
+sam_labeler.ipynb
 
 combined_csvs/*
+visual_graphs_tool.ipynb
 
 csv_for_tools/* 
 !csv_for_tools/.gitkeep
